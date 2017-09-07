@@ -19,9 +19,9 @@
    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDArjHKughS72s/XWm2OoRDyw5l4z1HWmPMaXtXlfdoEDSsXBsYRX693pLXQEklOjtG+tTJkVQQeEfoX4YFejPwrkHXOCcqmwuLUGib9pM9J2D32aEcCyisCiRsfOMlMTFu2EmyIxJNOdmlHWXU4K2n16QFiEjwfIM/z4kNiyLZHwIDAQAB",
    "manifest_version": 2,
    "minimum_chrome_version": "17.0",
-   "name": "cats.",
+   "name": "cats rebooted",
    "permissions": [ "notifications", "http://*/*", "webRequest", "webRequestBlocking", "storage" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.45",
+   "version": "1.0",
    "web_accessible_resources": [ "icons/icon-16.png" ]
 }
