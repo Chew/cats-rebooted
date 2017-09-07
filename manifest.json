@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "content/background.html"
+   },
+   "browser_action": {
+      "default_icon": "icons/icon-19.png",
+      "default_popup": "content/cats.html",
+      "default_title": "old cat"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "There are no uninteresting cats; only uninterested people.",
+   "homepage_url": "https://chrome.google.com/webstore/detail/pdfklfdfahcjkkkogigggbfhbojcnhgb",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDArjHKughS72s/XWm2OoRDyw5l4z1HWmPMaXtXlfdoEDSsXBsYRX693pLXQEklOjtG+tTJkVQQeEfoX4YFejPwrkHXOCcqmwuLUGib9pM9J2D32aEcCyisCiRsfOMlMTFu2EmyIxJNOdmlHWXU4K2n16QFiEjwfIM/z4kNiyLZHwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "17.0",
+   "name": "cats.",
+   "permissions": [ "notifications", "http://*/*", "webRequest", "webRequestBlocking", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.45",
+   "web_accessible_resources": [ "icons/icon-16.png" ]
+}
